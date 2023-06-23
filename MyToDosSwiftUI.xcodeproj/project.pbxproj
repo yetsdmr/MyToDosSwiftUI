@@ -13,6 +13,7 @@
 		4AA7F75E2A45CF3900C3380A /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4AA7F75D2A45CF3900C3380A /* Preview Assets.xcassets */; };
 		4AA7F7652A45D02800C3380A /* ToDoItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AA7F7642A45D02800C3380A /* ToDoItem.swift */; };
 		4AA7F7672A45D11100C3380A /* CreateView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AA7F7662A45D11100C3380A /* CreateView.swift */; };
+		4AA7F7692A45DE4200C3380A /* UpdateToDoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AA7F7682A45DE4200C3380A /* UpdateToDoView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +24,7 @@
 		4AA7F75D2A45CF3900C3380A /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		4AA7F7642A45D02800C3380A /* ToDoItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDoItem.swift; sourceTree = "<group>"; };
 		4AA7F7662A45D11100C3380A /* CreateView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreateView.swift; sourceTree = "<group>"; };
+		4AA7F7682A45DE4200C3380A /* UpdateToDoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UpdateToDoView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				4AA7F75C2A45CF3900C3380A /* Preview Content */,
 				4AA7F7642A45D02800C3380A /* ToDoItem.swift */,
 				4AA7F7662A45D11100C3380A /* CreateView.swift */,
+				4AA7F7682A45DE4200C3380A /* UpdateToDoView.swift */,
 			);
 			path = MyToDosSwiftUI;
 			sourceTree = "<group>";
@@ -146,6 +149,7 @@
 				4AA7F7592A45CF3800C3380A /* ContentView.swift in Sources */,
 				4AA7F7572A45CF3800C3380A /* MyToDosSwiftUIApp.swift in Sources */,
 				4AA7F7672A45D11100C3380A /* CreateView.swift in Sources */,
+				4AA7F7692A45DE4200C3380A /* UpdateToDoView.swift in Sources */,
 				4AA7F7652A45D02800C3380A /* ToDoItem.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
